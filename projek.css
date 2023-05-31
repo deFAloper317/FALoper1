@@ -4,16 +4,18 @@ body{
 	padding-bottom: 0%;
 	margin-bottom: 0%;
 	margin: 0%;
-	background-image: url(video/WhatsApp\ Image\ 2023-03-08\ at\ 10.15.29.jpeg);
+	background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.17.33.jpeg);
 	background-size: cover;
 }
 .navbar{
+	position: fixed;
 	display: flex;
     flex-direction: row;
     background-color: black;
     justify-content: center;
     align-items: center;
     height: 80px;
+	width: 100%;
 }
 a{
 	text-decoration: none;
@@ -86,13 +88,14 @@ a{
 .header-right{
 	box-shadow: 30px;
 	box-shadow: 20px 20px 15px black;
-	background-image: url(video/WhatsApp\ Image\ 2023-03-08\ at\ 13.37.06.jpeg);
+	background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.31.03.jpeg);
 	background-size: cover;
 	border-color: white;
 	border-width: 30px;
 	border-style: outset;
 	position: absolute;
-	margin-top: 70px;
+	margin-top: 150px;
+	margin-bottom: 80px;
     margin-left: 310px;
 	color: white;
 	width: 670px;
