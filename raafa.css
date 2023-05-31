@@ -1,6 +1,6 @@
 body{
     margin-left: 30px;
-    background-image: url(video/WhatsApp\ Image\ 2023-03-08\ at\ 10.15.29.jpeg) ;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.17.33.jpeg) ;
     background-size: cover;
     margin-bottom: 30px;
     background-repeat: no-repeat;
@@ -22,9 +22,9 @@ body{
 }
 .header-right{
     text-align: start;
-    margin-top: 36px;
+    margin-top: 150px;
     margin-left: 270px;
-    margin-bottom: 100px ;
+    margin-bottom: 200px ;
     height: 370px;
     width: 700px;
     background-color: black;
@@ -99,12 +99,14 @@ body{
 }
 
 .navbar{
+    position: fixed;
     display: flex;
     flex-direction: row;
     background-color: black;
     justify-content: center;
     align-items: center;
     height: 80px;
+    width: 100%;
 }
 .navbar h1{
     color: white;
